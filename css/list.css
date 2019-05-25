@@ -81,6 +81,9 @@ header>a{
     box-sizing: border-box;
     overflow: hidden;
 }
+.list>.scroll{
+    height: auto;
+}
 .listitem{
     height:1.74rem;
     width:100%;
