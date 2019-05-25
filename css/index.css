@@ -136,6 +136,10 @@ header>a{
     width:1.13rem;
     height: 1.13rem;
 }
+.category>li>a>div>img{
+    width:1.13rem;
+    height: 1.13rem;
+}
 footer{
     width:100%;
     height:0.98rem;
