@@ -26,12 +26,12 @@ header>a {
     position: relative;
 }
 .img>img{
-     width: 3.6rem;
-     height:3.6rem;
-     text-align: center;
- }
+    width: 3.6rem;
+    height:3.6rem;
+    text-align: center;
+}
 .no{
-font-size: 0.26rem;
+    font-size: 0.26rem;
     font-weight: normal;
     color: #000000;
     opacity: 0.4;
@@ -58,4 +58,7 @@ font-size: 0.26rem;
     position: absolute;
     left: 2.8rem;
     top: 10.1rem;
+}
+.shopping>a{
+    color: #ffffff;
 }
